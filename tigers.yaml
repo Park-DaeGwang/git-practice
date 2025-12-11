@@ -11,6 +11,7 @@ members:
 - George
 - Tyler
 - Kim
+- Hook
 
 fetch : this
 test
@@ -19,3 +20,4 @@ main
 main2
 test3
 main3
+
